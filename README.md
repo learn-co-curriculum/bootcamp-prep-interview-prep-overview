@@ -1,16 +1,8 @@
-## Objectives
+## Interview Prep Overview
 
-1. Objective 1
-2. Objective 2
+The following lessons in these units are taken directly from our Career Prep track that all of our Web Developer Online and In-Person students go through. They begin work on this track as they're nearing the end of their technical training and will work on accompanying assignments that will help them land a job as a developer. 
 
-## Instructions
+We've included lessons in here related to interviewing. You're not expected to do anything after reading the lessons, and if you are interested in applying to Flatiron School, this isn't meant to be a guide to get you through the application interviews. Instead this will give you a glimpse of how we prepare our students for jobs *after* they've gone through our technical program. 
 
-Make the tests pass.
-
-### Part 1: Do Some Stuff
-
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/bootcamp-prep-interview-prep-overview'>Bootcamp Prep Interview Prep Overview</a> on Learn.co and start learning to code for free.</p>
